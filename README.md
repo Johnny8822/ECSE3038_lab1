@@ -18,7 +18,8 @@ A function, `potential_divider()`, that takes two values as argument, a number t
 Parameters: number of resistors, value of resistors, voltage value, total resistance 
 Output: Resistor values and their coressponding voltage drop
 
-CODE 3 
+CODE 3  
+A function temperature_check(), that accepts a single number, a patient's body temperature, and a single character, the unit of temperature. The function prints the output thst shows that the patient is hypothermic, hyperthermic or has normal body temperature based on the number passed to the function. 
 
 
 /////////////////////////////////////
